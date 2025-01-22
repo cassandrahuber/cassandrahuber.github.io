@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Cassandra Huber",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "chuber@hawaii.edu",
+    "phone": "",
+    "website": "https://cassandrahuber.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
