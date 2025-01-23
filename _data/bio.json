@@ -16,9 +16,8 @@
   "interests": [
     { "name": "Cyber Security" },
     { "name": "Cyberinfastructure" },
-    { "name": "Software Development" },
-    { "name": "Sustainability" },
-    { "name": "Data Science" }
+    { "name": "Data Science" },
+    { "name": "Software Development" }
   ],
   "skills": [
     {
