@@ -60,5 +60,3 @@ int llist::addRecord(int accountno, char name[], char address[])
 }
 ```
 This code ensures that new records are added in a sorted order without duplicating existing account numbers.
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
