@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: records.png
+image: img/records.png
 title: "Bank Record Database"
 date: 2024-11-23
 published: true
