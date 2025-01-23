@@ -21,5 +21,5 @@ Through this project, I deepened my understanding of sociolinguistic research me
 For more information on my research paper: <a href="https://github.com/cassandrahuber/ip395finalpaper/tree/main"><i class="large github icon "></i>cassandrahuber/ip395finalpaper</a>
 
 For more information on the surveys: 
-<a href="https://www.reddit.com/r/Tagalog/comments/1cbtaeu/linguistic_imperialism_effects_on_filipino/">r/Tagalog</a>
+<a href="https://www.reddit.com/r/Tagalog/comments/1cbtaeu/linguistic_imperialism_effects_on_filipino/">r/Tagalog</a>,
 <a href="https://www.reddit.com/r/Filipino/comments/1cbtcaw/linguistic_imperialism_effects_on_filipino/">r/Filipino</a>
