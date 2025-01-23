@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: records.png
 title: "Bank Record Database"
-date: 2024
+date: 2024-11-23
 published: true
 labels:
   - C++
@@ -11,12 +11,6 @@ labels:
   - File Handling
 summary: "I developed a record database system for managing customer account information with features for adding, finding, printing, and deleting records in my ICS 212 course.."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 Bank Record Database is a console-based application that I developed for managing customer account information in my ICS 212 course. The project helped me learn how to design and implement a data-driven system using C++ and file handling.
 
