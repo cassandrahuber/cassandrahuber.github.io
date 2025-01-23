@@ -12,14 +12,15 @@ labels:
 summary: "A C program that consolidates student book report data from two CSV files and filters pending submissions."
 ---
 
-The Book Report Processor is a program written in C that consolidates student and book report assignment data from two CSV files into a new file. The program reads students.csv containing student details and book_report_assignments.csv containing book assignment details and report submission status, then creates two output files: full_information.csv (combines all data) and pending_reports.csv (only the data of students who have not submitted their report).
+The Book Report Processor is a C program designed to handle student book report assignments. It consolidates data from two CSV files—one containing student information and the other detailing book assignments and report submission statuses. The program then creates two output files: full_information.csv, which contains all student and assignment data, and pending_reports.csv, which filters out students who have not yet submitted their reports.
 
-In this project, I gained experience in handling CSV files, linked list manipulation, and memory management in C. I used clean coding practices, including modular functions, detailed comments, and memory cleanup. The program efficiently processes and organizes the data, allowing for easy access to both complete and pending book report assignments.
+As the sole developer, I was responsible for designing and implementing the entire program. I wrote all the functions to read and process the input files, manage the linked list of student records, and output the final files. I ensured the program followed clean coding practices, including modular functions, error handling, and memory management.
+
+Through this project, I gained valuable experience in working with file I/O, linked lists, and memory management in C. I learned how to process and manipulate CSV files, as well as how to manage dynamic memory effectively. The project also reinforced the importance of clean, maintainable code and the need for careful error handling when dealing with file operations and memory allocation.
 
 Here is some example code of 'write_file' function to illustrate linked list usage and file handling:
 ```c
-/* Writes linked list data to a specified CSV file. Used for both 'full_information.csv'
- * and 'pending_reports.csv'. */
+/* Writes linked list data to a specified CSV file. Used to write both .csv output files. */
 int write_file(struct student *start, char filename[])
 {
     FILE *outfile;
