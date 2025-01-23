@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "area": "Information and Computer Sciences (expected Spring, 2026)",
       "studyType": "B.A.",
       "startDate": "2023-09-20",
       "endDate": "Present",
@@ -66,7 +66,7 @@
     {
       "company": "Honey Cup Coffeehouse and Creamery",
       "position": "Barista and Cashier",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
@@ -77,15 +77,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
@@ -96,24 +96,25 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, PANDA (Programming AND Algorithms Club), 2024-Present",
+        "Member, ACM Manoa, 2023-Present",
+        "Member, Eastern Michigan University Lacrosse Team, 2022-2023",
+        "Captain/Member, Varsity Lacrosse Athlete, Newbury Park High School, 2018-2022"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Dean's List",
+      "date": "2022-Present",
+      "awarder": "University of Hawaii at Manoa, Eastern Michigan University",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "NCAA Division 1 Lacrosse Athlete on Athletic Scholarship",
+      "date": "2022",
+      "awarder": "Eastern Michigan University Athletic Department",
+      "summary": ""
     }
   ],
   "references": [
