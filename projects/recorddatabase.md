@@ -12,11 +12,11 @@ labels:
 summary: "I developed a record database system for managing customer account information with features for adding, finding, printing, and deleting records in my ICS 212 course.."
 ---
 
-Bank Record Database is a console-based application that I developed for managing customer account information in my ICS 212 course. The project helped me learn how to design and implement a data-driven system using C++ and file handling.
+Bank Record Database is a console-based application developed as part of my ICS 212 course. The project aimed to create a system that could manage customer account information using a linked list data structure. The system allowed users to perform operations such as adding, finding, printing, and deleting records, where each record consisted of a customer’s account number, name, and address. The application also included functionality to read and write records to a file, ensuring data persistence between sessions.
 
-The Bank Record Database system allows users to add, find, print, and delete customer records. It uses a linked list data structure to store records, with each record containing an account number, name, and address. Additionally, the system reads and writes data from/to a file to ensure data persistence.
+For this project, I was responsible for the design and implementation of the entire system. I developed the linked list data structure, wrote functions to manage customer records, and implemented file handling to save and retrieve records from a file. Additionally, I integrated debugging capabilities to make the development and testing process easier. The entire project was done individually, and I handled all aspects from coding to testing the application.
 
-In this project, I gained experience with linked list data structures, file I/O, and basic debugging. I used C++ for both the client-side logic and the implementation of all required functions, including those for reading and writing to files, managing customer records, and handling input from the user.
+From this experience, I learned a lot about data structures, particularly linked lists, and how they can be applied to manage dynamic data in memory. I also gained valuable experience with file I/O in C++, which was crucial for ensuring that the records were stored and retrieved correctly. This project also helped me improve my problem-solving skills as I worked to implement features like handling user input and ensuring the application ran smoothly. Overall, it reinforced my understanding of how to build functional software from scratch and gave me a deeper understanding of C++ and its application in real-world scenarios.
 
 Here is some example code that illustrates how I add a new record to the database:
 
