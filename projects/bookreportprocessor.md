@@ -12,14 +12,14 @@ labels:
 summary: "A C program that consolidates student book report data from two CSV files and filters pending submissions."
 ---
 
-The Book Report Processor is a program written in C that consolidates student and book report assignment data from two CSV files into a new file. The program reads `students.csv` containing student details and `book_report_assignments.csv` containing book assignment and report submission status, then creates two output files: `full_information.csv` and `pending_reports.csv`.
+The Book Report Processor is a program written in C that consolidates student and book report assignment data from two CSV files into a new file. The program reads students.csv containing student details and book_report_assignments.csv containing book assignment details and report submission status, then creates two output files: full_information.csv (combines all data) and pending_reports.csv (only the data of students who have not submitted their report).
 
 In this project, I gained experience in handling CSV files, linked list manipulation, and memory management in C. I used clean coding practices, including modular functions, detailed comments, and memory cleanup. The program efficiently processes and organizes the data, allowing for easy access to both complete and pending book report assignments.
 
 Here is some example code of 'write_file' function to illustrate linked list usage and file handling:
 ```c
-/* Writes the linked list in heap space to a specified csv filename. Creates a table
- * with a header and each student's data that is in the list. */
+/* Writes linked list data to a specified CSV file. Used for both 'full_information.csv'
+ * and 'pending_reports.csv'. */
 int write_file(struct student *start, char filename[])
 {
     FILE *outfile;
