@@ -19,4 +19,7 @@ I designed the survey and developed the research methodology, focusing on the in
 Through this project, I deepened my understanding of sociolinguistic research methods, data collection, and analysis. The experience honed my ability to design meaningful survey questions and interpret qualitative data. I also gained insights into the complexities of language's role in shaping cultural identity, particularly in post-colonial contexts. By analyzing the intersection of language, identity, and social hierarchy, I learned how language ideologies continue to influence personal and communal perceptions of self and culture. This research also improved my academic writing and reporting skills, as I had to present complex findings in a clear and accessible manner.
 
 
-For more information on the surveys: <a href="https://www.reddit.com/r/Tagalog/comments/1cbtaeu/linguistic_imperialism_effects_on_filipino/">r/Tagalog</a>
+For more information on the surveys: 
+<a href="https://www.reddit.com/r/Tagalog/comments/1cbtaeu/linguistic_imperialism_effects_on_filipino/">r/Tagalog</a>
+href="https://www.reddit.com/r/Filipino/comments/1cbtcaw/linguistic_imperialism_effects_on_filipino/">r/Filipino</a>
+For more information on my research paper: Source: <a href="https://github.com/cassandrahuber/ip395finalpaper/tree/main"><i class="large github icon "></i>cassandrahuber/ip395finalpaper</a>
