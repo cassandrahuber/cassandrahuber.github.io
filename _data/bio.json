@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/cassandrahuber.png",
     "email": "chuber@hawaii.edu",
-    "phone": "",
     "website": "https://cassandrahuber.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
