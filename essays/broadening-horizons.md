@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Broadening My Horizons"
 # All dates must be YYYY-MM-DD format!
 date: 2024-08-26
-published: false
+published: true
 labels:
-  - Type script
+  - Software Engineering
   - Learning
 ---
+##
