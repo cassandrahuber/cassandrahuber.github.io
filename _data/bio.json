@@ -2,70 +2,77 @@
   "basics": {
     "name": "Cassandra Huber",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/cassandrahuber.png",
     "email": "chuber@hawaii.edu",
     "phone": "",
     "website": "https://cassandrahuber.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "cassandrahuber", "url": "http://github.com/cassandrahuber" },
+      { "network": "linkedin", "username": "cassandrahuber", "url": "http://linkedin.com/in/cassandra-huber-profile" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cyber Security" },
+    { "name": "Cyberinfastructure" },
+    { "name": "Software Development" },
+    { "name": "Sustainability" },
+    { "name": "Data Science" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Unix", "Git/GitHub", "Microsoft Excel", "Microsoft Word" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2023-09-20",
       "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],[
+    {
+      "institution": "Eastern Michigan University, Ypsilanti, MI",
+      "area": "Business Administration, Management Information Systems",
+      "studyType": "B.S.",
+      "startDate": "2022-09-29",
+      "endDate": "2023-04-28",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Mad Dog Lacrosse",
+      "position": "Seasonal Club Lacrosse Coach",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-05-01",
+      "endDate": "2024-07-11",
+      "summary": "Directed practices and tournaments for a middle school team of 30 players.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Cultivated a positive team culture while developing player’s lacrosse skills in an engaging, supportive environment.",
+        "Improved team performance, resulting in winning the championship at the SoCal Summer Kickoff tournament"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Honey Cup Coffeehouse and Creamery",
+      "position": "Barista and Cashier",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed strong interpersonal skills by engaging with customers, recognizing regulars, and providing personalized service"
       ]
     }
   ],
