@@ -77,15 +77,16 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Eastern Michigan University Lacrosse Team",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "position": "Member",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "",
       "highlights": [
-        "",
-        ""
+        "Committed 20 hours per week to the program",
+        "Volunteered over 20 hours in community service, contributing to 742 total team hours.",
+        "Team awarded second-highest GPA in NCAA Division 1 and named an IWLCA Academic Honor Squad."
       ]
     },
     {
@@ -98,7 +99,6 @@
       "highlights": [
         "Member, PANDA (Programming AND Algorithms Club), 2024-Present",
         "Member, ACM Manoa, 2023-Present",
-        "Member, Eastern Michigan University Lacrosse Team, 2022-2023",
         "Captain/Member, Varsity Lacrosse Athlete, Newbury Park High School, 2018-2022"
       ]
     }
@@ -108,11 +108,11 @@
       "title": "Dean's List",
       "date": "2022-Present",
       "awarder": "University of Hawaii at Manoa, Eastern Michigan University",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": ""
     },
     {
       "title": "NCAA Division 1 Lacrosse Athlete on Athletic Scholarship",
-      "date": "2022",
+      "date": "2022-2023",
       "awarder": "Eastern Michigan University Athletic Department",
       "summary": ""
     }
