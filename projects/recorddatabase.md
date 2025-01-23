@@ -9,7 +9,7 @@ labels:
   - C++
   - Data Structures
   - File Handling
-summary: "I developed a record database system for managing customer account information with features for adding, finding, printing, and deleting records in my ICS 212 course.."
+summary: "I developed a record database system for managing customer account information with features for adding, finding, printing, and deleting records in my ICS 212 course."
 ---
 
 Bank Record Database is a console-based application developed as part of my ICS 212 course. The project aimed to create a system that could manage customer account information using a linked list data structure. The system allowed users to perform operations such as adding, finding, printing, and deleting records, where each record consisted of a customer’s account number, name, and address. The application also included functionality to read and write records to a file, ensuring data persistence between sessions.
