@@ -76,19 +76,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Eastern Michigan University Lacrosse Team",
-      "website": "",
-      "position": "Member",
-      "startDate": "2022",
-      "endDate": "2023",
-      "summary": "",
-      "highlights": [
-        "Committed 20 hours per week to the program",
-        "Volunteered over 20 hours in community service, contributing to 742 total team hours.",
-        "Team awarded second-highest GPA in NCAA Division 1 and named an IWLCA Academic Honor Squad."
-      ]
-    },
-    {
       "organization": "",
       "website": "",
       "position": "Professional organization involvement",
@@ -99,6 +86,19 @@
         "Member, PANDA (Programming AND Algorithms Club), 2024-Present",
         "Member, ACM Manoa, 2023-Present",
         "Captain/Member, Varsity Lacrosse Athlete, Newbury Park High School, 2018-2022"
+      ]
+    },
+    {
+      "organization": "Eastern Michigan University Lacrosse Team",
+      "website": "",
+      "position": "Member",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": [
+        "Committed 20 hours per week to the program",
+        "Volunteered over 20 hours in community service, contributing to 742 total team hours.",
+        "Team awarded second-highest GPA in NCAA Division 1 and named an IWLCA Academic Honor Squad."
       ]
     }
   ],
