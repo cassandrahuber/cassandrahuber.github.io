@@ -9,6 +9,7 @@ labels:
   - Learning
   - Puzzles
 ---
+
 <img width="200px" class="rounded float-start pe-4" src="../img/puzzle.jpg">
 
 I consider myself someone who is always open to learning new things, though it is most manageable and enjoyable for me to learn when I am interested in the subject matter. Software engineering happens to fall within these guidelines. My interest in software engineering stems from a lifelong love for puzzles and creativity. Even as a child, I was always fascinated with any sort of creative outlet I could get my hands on. By elementary school, I had already learned various crafts such as knitting, crocheting, sewing by hand and machine, painting, and drawing.  At the same time, I found myself captivated by puzzles, any kind, but especially jigsaw puzzles and sudoku. Puzzles often go hand in hand with creativity, where often a creative and clever solution is needed to solve, I find the same is also true for software engineering.
