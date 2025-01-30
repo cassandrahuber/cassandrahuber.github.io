@@ -25,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Unix", "Microsoft Excel", "Microsoft Word" ]
+      "keywords": [ "MacOS", "Unix", "Git/GitHub", "Microsoft Excel", "Microsoft Word" ]
     }
   ],
   "education": [
