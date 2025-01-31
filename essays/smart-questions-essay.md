@@ -25,14 +25,14 @@ A user asked about how the size of a Variable Length Array (VLA) is stored in C 
 
 This user received four thorough answers, complete with multiple examples, within the same day of posting their question. Quick and helpful answers were given by providing the proper tools for developers to answer the question. 
 
-Link to smart question:  <a href="https://stackoverflow.com/questions/79400684/where-is-the-size-of-a-vla-stored-in-c"><i class="large github icon "></i>Where is the size of a VLA stored in c?</a>
+Link to smart question:  <a href="https://stackoverflow.com/questions/79400684/where-is-the-size-of-a-vla-stored-in-c"><i class="large github icon "></i>here</a>
 
 
 ## An example of what not to do:
 
 A user asked about connecting to a remote MySQL database, which has over 60,000 views but no answers. The question is too vague, lacks necessary details like error messages or setup information, and does not explain any troubleshooting steps already taken. The user’s request is unclear and has no specific context, making it difficult for developers to provide proper help. This shows how asking a more detailed, specific question is essential for getting effective responses.
 
-Link to not smart question:  <a href="https://stackoverflow.com/questions/31897406/pdoexception-sqlstatehy000-2002-connection-timed-out-on-my-local-computer"><i class="large github icon "></i>PDOException SQLSTATE[HY000] [2002] Connection timed out on my local computer</a>
+Link to not smart question:  <a href="https://stackoverflow.com/questions/31897406/pdoexception-sqlstatehy000-2002-connection-timed-out-on-my-local-computer"><i class="large github icon "></i>here</a>
 
 ## What I’ve Learned
 
