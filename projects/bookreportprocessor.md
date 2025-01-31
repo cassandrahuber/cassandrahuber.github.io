@@ -57,4 +57,4 @@ int write_file(struct student *start, char filename[])
     return return_val;
 }
 ```
-Source: <a href="https://github.com/cassandrahuber/cassandrahuber-Book-Report-Processor"><i class="large github icon "></i>cassandrahuber/cassandrahuber-Book-Report-Processor</a>
+Link to my code: <a href="https://github.com/cassandrahuber/cassandrahuber-Book-Report-Processor"><i class="large github icon "></i>cassandrahuber/cassandrahuber-Book-Report-Processor</a>
