@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/questiondog.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/questiondog.jpg">
 
 ## Are questions just as important as the answer?
 
@@ -28,9 +28,7 @@ This user received four thorough answers, complete with multiple examples, withi
 Link to smart question:  <a href="https://stackoverflow.com/questions/79400684/where-is-the-size-of-a-vla-stored-in-c"><i class="large github icon "></i>Where is the size of a VLA stored in c?</a>
 
 
-## What not to do
-
-A “not smart” question example:
+## An example of what not to do:
 
 A user asked about connecting to a remote MySQL database, which has over 60,000 views but no answers. The question is too vague, lacks necessary details like error messages or setup information, and does not explain any troubleshooting steps already taken. The user’s request is unclear and has no specific context, making it difficult for developers to provide proper help. This shows how asking a more detailed, specific question is essential for getting effective responses.
 
@@ -38,6 +36,6 @@ Link to not smart question:  <a href="https://stackoverflow.com/questions/318974
 
 ## What I’ve Learned
 
-In conclusion, asking "smart questions" is an essential skill for software engineers. It helps you get better answers faster and makes online communities like Stack Overflow more productive. The big picture is that high-quality questions get you high-quality answers. It's almost like the golden rule that you are taught as a child, “Treat others how you want to be treated,” the same thing applies to questions: ask a “smart” question to receive a “smart” answer.
+From these examples, it's clear to see that asking questions the “smart” way makes a big difference. It is an essential skill for software engineers as it helps you get better answers faster and makes online communities like Stack Overflow more productive. The big picture is that high-quality questions get you high-quality answers. It's almost like the golden rule that you are taught as a child, “Treat others how you want to be treated,” the same thing applies to questions: ask a “smart” question to receive a “smart” answer.
 
 Link to Eric Raymond’s essay: <a href="http://www.catb.org/esr/faqs/smart-questions.html"><i class="large github icon "></i>"How to Ask Questions the Smart Way"</a>
