@@ -61,4 +61,4 @@ int llist::addRecord(int accountno, char name[], char address[])
 ```
 This code ensures that new records are added in a sorted order without duplicating existing account numbers.
 
-Source: <a href="https://github.com/cassandrahuber/bank-record-database"><i class="large github icon "></i>cassandrahuber/bank-record-database</a>
+Link to my code: <a href="https://github.com/cassandrahuber/bank-record-database"><i class="large github icon "></i>cassandrahuber/bank-record-database</a>
