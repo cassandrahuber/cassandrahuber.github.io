@@ -24,7 +24,7 @@ Past my initial perspective and diving headfirst into the world of Typescript, I
 Putting my new Typescript skills into practice with athletic software engineering, particularly with WOD (Workout of the Day) exercises in my ICS 314 class, has been both challenging and engaging. These timed coding practices push me to think quickly and analytically to solve the problems presented to me under pressure.  I enjoy the puzzle-like structure they provide while also helping me improve my knowledge of the programming language through hands-on practice and experience. These WODs are similar to the algorithmic problem-solving I do in my PANDA (Programming AND Algorithms) club, which stimulates job interview questions. So, not only am I growing my programming skills and knowledge through athletic software engineering but, I am also setting myself up for a successful future in the career space.
 
 ## WOD Example with return type verstility in Typescript
-One feature I found particularly useful in Typescript is union types (|), which allow functions to return different data types depending on the situation. Here is an example of my solution from a WOD exercise demonstrating this concept: 
+One feature I found particularly useful in Typescript is union types (|), which allow functions to return different data types depending on the situation. Here is an example of my solution from a WOD exercise demonstrating this concept:  
 
 ```typescript
 function temperatureConverter(temperature: number, temperatureType: string): number | string{
