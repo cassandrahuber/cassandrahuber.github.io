@@ -8,7 +8,6 @@ published: true
 labels:
   - Coding Standards
   - ESLint
-  - Refection
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/cartoonhouse.jpg">
