@@ -14,18 +14,18 @@
   },
   "interests": [
     { "name": "Cyber Security" },
-    { "name": "Cyberinfastructure" },
     { "name": "Data Science" },
+    { "name": "Cyberinfastructure" },
     { "name": "Software Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Typescript", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Typescript", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Unix", "Git/GitHub", "Microsoft Excel", "Microsoft Word" ]
+      "keywords": [ "MacOS", "Unix", "Microsoft Office Suite", "Git/GitHub"]
     }
   ],
   "education": [
@@ -49,6 +49,18 @@
     }
   ],
   "work": [
+        {
+      "company": "Hawai‘i Data Science Institute",
+      "position": "Undergraduate Student Researcher",
+      "website": "https://datascience.hawaii.edu/undergraduate-student-programscipe-ci-reo-2025/",
+      "startDate": "2025-02-03",
+      "endDate": "Present",
+      "summary": "Collaborate with researchers and Cyberinfrastructure professionals (CIPs) on advanced computing projects to enhance skills and contribute to project outcomes.",
+      "highlights": [
+        "Utilize Python, Pandas, LookerStudio, generative AI, and PDF parsers for data processing and visualization.",
+        "Participate in cohort meetings and workshops to expand technical skills and professional network."
+      ]
+    },
     {
       "company": "Mad Dog Lacrosse",
       "position": "Seasonal Club Lacrosse Coach",
@@ -58,7 +70,7 @@
       "summary": "Directed practices and tournaments for a middle school team of 30 players.",
       "highlights": [
         "Cultivated a positive team culture while developing player’s lacrosse skills in an engaging, supportive environment.",
-        "Improved team performance, resulting in winning the championship at the SoCal Summer Kickoff tournament"
+        "Improved team performance, resulting in winning the championship at the SoCal Summer Kickoff tournament."
       ]
     },
     {
@@ -69,7 +81,7 @@
       "endDate": "2023-08-10",
       "summary": "",
       "highlights": [
-        "Developed strong interpersonal skills by engaging with customers, recognizing regulars, and providing personalized service"
+        "Developed strong interpersonal skills by engaging with customers, recognizing regulars, and providing personalized service."
       ]
     }
   ],
