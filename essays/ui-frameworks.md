@@ -10,7 +10,8 @@ labels:
   - Bootstrap 5
 ---
 
-## UI Frameworks <img width="100px" class="rounded float-start pe-4" src="../img/bootstrap-5.png">
+## UI Frameworks 
+<img width="100px" class="rounded float-start pe-4" src="../img/bootstrap-5.png">
 
 Bootstrap 5 is a popular UI framework that helps web developers create sophisticated, responsive, and functional websites quickly and with ease. Rather than writing all the code for layouts, buttons, and forms from scratch, Bootstrap provides ready-to-use components that can be customized to fit your needs. This UI framework saves time and effort, allowing developers to focus on the more complex aspects of website building, such as adding custom functionality. Learning to use Bootstrap took me some time to get used to, but once I got the hang of it, it became an extremely useful tool that made designing more complex websites much easier.
 <hr />
