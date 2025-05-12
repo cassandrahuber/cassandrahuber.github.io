@@ -10,7 +10,7 @@ labels:
   - Skills Development
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/GitHubcopilotlogo.png"><img width="200px" class="rounded float-start pe-4" src="../img/chatgptlogo.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/GitHubcopilotlogo.png">  <img width="200px" class="rounded float-start pe-4" src="../img/chatgptlogo.png">
 
 
 ## I. Introduction
