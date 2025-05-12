@@ -12,6 +12,7 @@ labels:
 
 <img width="350px" class="rounded pe-5" src="../img/GitHubcopilotlogo.png">    <img width="200px" class="rounded pe-4" src="../img/chatgptlogo.png">
 
+<br />
 
 ## I. Introduction
 AI has become a powerful tool in education, especially in fields like Software Engineering. In ICS 314: Software Engineering, I utilized AI tools ChatGPT and Co-Pilot to assist with coding, problem-solving, and learning new concepts. These AI tools made learning easier, but also challenged me to think critically about their results.
