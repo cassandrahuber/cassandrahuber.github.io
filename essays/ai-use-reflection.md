@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "AI in Software Engingeering"
-date: 2025-01-23
+date: 2025-05-11
 published: true
 labels:
   - Artificial Intelligence
