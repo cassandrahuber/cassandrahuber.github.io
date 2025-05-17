@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/books.jpg
+image: img/book-with-stars.jpg
 title: "Book Report Processor"
 date: 2024-12-10
 published: true
