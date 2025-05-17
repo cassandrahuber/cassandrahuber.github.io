@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Broadening My Horizons"
-date: 2025-01-23
+date: 2025-01-22
 published: true
 labels:
   - Software Engineering
