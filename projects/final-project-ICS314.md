@@ -13,7 +13,7 @@ labels:
   - React
 summary: "Da Grindz is a web app that helps UH Mānoa students plan meals and track nutrition."
 ---
-<img width="900px" class="rounded d-block mx-auto" src="../img/landingpage.png">
+<img width="1000px" class="rounded d-block mx-auto" src="../img/landingpage.png">
 
 ## Da Grindz
 Da Grindz is a web application designed to assist the students and staff at the University of Hawai’i at Mānoa in managing their meal planning, tracking their nutritional intake, and making healthier food choices. The app provides personalized meal recommendations based on user-set dietary preferences, allergies, and specific nutritional goals like protein or calorie intake. Users can view real-time information about campus food vendors, including their operating hours and weekly menus, allowing them to plan their meals accordingly. 
