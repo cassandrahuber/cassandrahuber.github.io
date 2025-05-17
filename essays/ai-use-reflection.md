@@ -78,3 +78,4 @@ In the future, AI will likely become even more helpful in education. It could be
 ## VIII. Conclusion
 In conclusion, AI has been a useful tool in ICS 314, helping me understand difficult concepts and finish coding tasks more quickly. While AI helped me learn more efficiently, it also made me think more critically about my work and forced me to fix mistakes on my own. In the future, I think AI will play an even bigger role in education and coding, but it’s important that we use it as a tool and continue to focus on developing our problem solving skills.
 
+<i>Note that this essay was written with the help of Grammarly.</i>
