@@ -9,7 +9,7 @@ labels:
   - Project Tools
 ---
 
-<img width=100% class="rounded float-start pe-4" src="../img/software-engineering-grpahic.png">
+<img width="600" class="rounded center pe-4" src="../img/software-engineering-grpahic.png">
 
 ## Software Engineering
 At first, I thought a software engineering course would be just like any other computer science class—focused on learning a new programming language and building projects centered around web development. I imagined the course would mostly involve working with tools like HTML and Bootstrap to create websites. However, ICS 314 revealed that software engineering encompasses much more than just coding for websites.
