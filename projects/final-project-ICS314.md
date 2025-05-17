@@ -1,1 +1,33 @@
+---
+layout: project
+type: project
+image: img/books.jpg
+title: "Da Grindz"
+date: 2025-5
+published: true
+labels:
+  - Website
+  - Next.js
+  - Typescript
+  - PostgreSQL
+  - React
+summary: "Da Grindz is a web app that helps UH Mānoa students plan meals and track nutrition."
+---
 
+Da Grindz is a web app made for students and staff at the University of Hawai’i at Mānoa. The app helps users plan their meals and track their nutrition in a fun and easy way. It shows where food vendors are on campus, lists their menus, and gives personalized meal suggestions based on allergies and dietary needs. One cool feature is the “Mood-Based Meal Matching,” which suggests meals based on how you’re feeling that day and even changes the app’s look to match your mood.
+
+Da Grindz is a web application designed to assist the students and staff at the University of Hawai’i at Mānoa in managing their meal planning, tracking their nutritional intake, and making healthier food choices. The app provides personalized meal recommendations based on user-set dietary preferences, allergies, and specific nutritional goals like protein or calorie intake. Users can view real-time information about campus food vendors, including their operating hours and weekly menus, allowing them to plan their meals accordingly. 
+
+The standout feature of Da Grindz is the "Grindz Mood" system, where users select their mood (e.g., "Grindz for Gains," "Vegetarian Vibes," or "Quick Bento Run") to personalize meal suggestions, UI themes, and motivational quotes. This mood-based customization appears on the dashboard page. The app also includes a drag-and-drop planner tool for meal scheduling, a shopping list generator, and interactive features like a campus map showing vendor locations. 
+
+For my contribution to Da Grindz, I focused on front-end development, where I created an interactive navbar with animated features, making it more engaging for users. I also designed the footer and built the landing page, which includes a step-by-step "Getting Started" guide. The guide has an additional features on buttons so when hovered over they move up slightly, their shadows grow larger, and start to glow; providing a more interactive experience for users.
+
+In addition, I developed the vendors page, which interacts with the database to display live vendor information. This page shows the current status (open or closed) of each vendor in real time and allows users to search for specific vendors. It was crucial for me to ensure smooth data integration so users could easily access the most up to date information about on-campus food options.
+
+Throughout this project, I learned how to manage data flow from the front-end to the database and how to implement real-time features like the vendor status. I also gained experience in creating user-friendly interactive elements and optimizing the UI to enhance user experience. One of the challenges I faced was ensuring that all front-end features worked seamlessly with the back-end database, especially with dynamic features like the vendor information updates.
+
+Working on this project also helped me improve my collaboration skills. As part of a team, I had to communicate effectively and address issues quickly to ensure we met deadlines. I learned the importance of clear communication in a team setting and how to navigate challenges to deliver a well-rounded, functional product.
+https://da-grindz.vercel.app/
+https://github.com/da-grindz
+## Links to the project: 
+<a href="https://da-grindz.github.io/"><i class="large github icon "></i>cassandrahuber/cassandrahuber-Book-Report-Processor</a>
