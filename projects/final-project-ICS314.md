@@ -13,7 +13,7 @@ labels:
   - React
 summary: "Da Grindz is a web app that helps UH Mānoa students plan meals and track nutrition."
 ---
-<img width="800px" class="rounded d-block mx-auto" src="../img/landingpage.png">
+<img width="900px" class="rounded d-block mx-auto" src="../img/landingpage.png">
 
 ## Da Grindz
 Da Grindz is a web application designed to assist the students and staff at the University of Hawai’i at Mānoa in managing their meal planning, tracking their nutritional intake, and making healthier food choices. The app provides personalized meal recommendations based on user-set dietary preferences, allergies, and specific nutritional goals like protein or calorie intake. Users can view real-time information about campus food vendors, including their operating hours and weekly menus, allowing them to plan their meals accordingly. 
@@ -27,8 +27,8 @@ For my contribution to Da Grindz, I focused on front-end development, where I cr
 In addition, I developed the vendors page, which interacts with the database to display live vendor information. This page shows the current status (open or closed) of each vendor in real time and allows users to search for specific vendors. It was crucial for me to ensure smooth data integration so users could easily access the most up to date information about on-campus food options.
 
 <div style="text-align: center;">
-  <img class="rounded same-size-image" src="../img/getstartedpage.png">
-  <img class="rounded same-size-image" src="../img/vendorspage.png">
+  <img width="400px" class="rounded" style="margin-right: 15px; vertical-align: top;" src="../img/getstartedpage.png">
+  <img width="300px" class="rounded" style="margin-left: 15px; vertical-align: top;" src="../img/vendorspage.png">
 </div>
 
 <style>
