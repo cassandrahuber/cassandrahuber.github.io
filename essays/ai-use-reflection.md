@@ -5,7 +5,7 @@ title: "AI in Software Engingeering"
 date: 2025-05-11
 published: true
 labels:
-  - Artificial Intelligence
+  - AI
   - Software Engineering
   - Skills Development
 ---
