@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/records.png
+image: img/blue-database.avif
 title: "Bank Record Database"
 date: 2024-11-23
 published: true
