@@ -18,13 +18,13 @@ summary: "Da Grindz is a web app that helps UH Mānoa students plan meals and tr
 ## Da Grindz
 Da Grindz is a web application designed to assist the students and staff at the University of Hawai’i at Mānoa in managing their meal planning, tracking their nutritional intake, and making healthier food choices. The app provides personalized meal recommendations based on user-set dietary preferences, allergies, and specific nutritional goals like protein or calorie intake. Users can view real-time information about campus food vendors, including their operating hours and weekly menus, allowing them to plan their meals accordingly. 
 
-<img width="300px" class="rounded align-items-middle" src="../img/grindz-mood.png">
+<img width="300px" class="rounded d-block mx-auto" src="../img/grindz-mood.png">
 
 The standout feature of Da Grindz is the "Grindz Mood" system, where users select their mood (e.g., "Grindz for Gains," "Vegetarian Vibes," or "Quick Bento Run") to personalize meal suggestions, UI themes, and motivational quotes. This mood-based customization appears on the dashboard page. The app also includes a drag-and-drop planner tool for meal scheduling, a shopping list generator, and interactive features like a campus map showing vendor locations. 
 
-<div class="align-middle">
-  <img width="400px" class="rounded align-middle" src="../img/getstartedpage.png">
-  <img width="300px" class="rounded float-right" src="../img/vendorspage.png">
+<div class="text-center">
+  <img width="400px" class="rounded d-inline-block" src="../img/getstartedpage.png">
+  <img width="300px" class="rounded d-inline-block" src="../img/vendorspage.png">
 </div>
 
 For my contribution to Da Grindz, I focused on front-end development, where I created an interactive navbar with animated features, making it more engaging for users. I also designed the footer and built the landing page, which includes a step-by-step "Getting Started" guide. The guide has an additional features on buttons so when hovered over they move up slightly, their shadows grow larger, and start to glow; providing a more interactive experience for users.
