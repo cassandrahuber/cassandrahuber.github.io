@@ -20,104 +20,87 @@
   --tf-projects-bg-color: var(--tf-blue4);
 }
 
-h1,h2,h3,h4,h5 {
+/* Use the existing font setup */
+body {
+  background-color: #fff;
+  color: #222;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
   color: var(--tf-blue1);
-  font-family: Rubik;
+  font-family: Rubik, "Open Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.6em;
 }
 
-/* Format social media icons */
-.tf-social {
-  display: inline-block;
-  fill: var(--tf-blue1);
-  height: 1.5em;
-  vertical-align: -.1em;
-  width: 1.5em;
-  transition: 0.2s;
-}
-
-.tf-social:hover {
-  fill: var(--tf-icon-hover);
+section {
+  margin: 0 auto 2.5em auto;
+  max-width: 800px;
+  padding: 0 1em;
 }
 
 a {
-  text-decoration: none;
+  color: var(--tf-blue1);
+  text-decoration: underline;
+  transition: color 0.15s;
 }
 
-@media (max-width: 500px) {
-  .navbar-brand {
-    display: none;
-  }
+a:hover {
+  color: var(--tf-blue3);
+  text-decoration: underline;
+}
 
-  .navbar-brand-mobile {
-    display: inline;
-  }
+.btn, button, input[type="submit"] {
+  background: var(--tf-blue1);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.55em 1.3em;
+  font-size: 1em;
+  font-weight: 500;
+  box-shadow: none;
+  transition: background 0.15s, color 0.15s;
+  cursor: pointer;
+}
+
+.btn:hover, button:hover, input[type="submit"]:hover {
+  background: var(--tf-blue3);
+  color: #fff;
+}
+
+.tf-social {
+  fill: var(--tf-blue1);
+  margin-right: 0.5em;
+  transition: fill 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-blue3);
+}
+
+/* Subtle section dividers */
+section + section {
+  border-top: 1px solid #e9f1f7;
+  padding-top: 2em;
 }
 
 .rounded-circle {
   border-color: var(--tf-blue1);
-  border-style: solid;
-  border-width: 1px;
-}/* 1. Gradient background for the page */
-body {
-  background: linear-gradient(135deg, #bde3f0 0%, #1b6fa9 100%);
-  min-height: 100vh;
 }
 
-/* 2. Card style for sections */
-.section-card {
-  background: #fff;
-  border-radius: 18px;
-  box-shadow: 0 4px 32px rgba(7, 109, 179, 0.08);
-  padding: 2.5em 2em;
-  margin: 2em 0;
-  transition: transform 0.2s, box-shadow 0.2s;
-}
-.section-card:hover {
-  transform: translateY(-8px) scale(1.02);
-  box-shadow: 0 8px 40px rgba(7, 109, 179, 0.14);
-}
-
-/* 3. Modern headings */
-h1, h2, h3, h4, h5 {
-  color: var(--tf-blue1);
-  font-family: Rubik, "Open Sans", sans-serif;
-  letter-spacing: 0.04em;
-  font-weight: 700;
-}
-
-/* 4. Stylish buttons and links */
-a, .btn {
-  color: #fff !important;
-  background: linear-gradient(90deg, #2f8ed0 40%, #076db3 100%);
-  padding: 0.5em 1.4em;
-  border-radius: 25px;
-  font-weight: 500;
-  transition: background 0.2s, box-shadow 0.2s, transform 0.2s;
-  box-shadow: 0 2px 12px rgba(7, 109, 179, 0.08);
-}
-a:hover, .btn:hover {
-  background: linear-gradient(90deg, #076db3 60%, #2f8ed0 100%);
-  box-shadow: 0 4px 20px rgba(31, 111, 169, 0.17);
-  transform: scale(1.04);
-  text-decoration: none;
-}
-
-/* 5. Subtle section separation */
-section {
-  margin-bottom: 3em;
-  padding-bottom: 2em;
-  border-bottom: 1px solid #e3eaf3;
-}
-
-/* 6. Responsive tweaks */
+/* Responsive: keeps things readable */
 @media (max-width: 650px) {
-  .section-card {
-    padding: 1.2em 0.7em;
+  section {
+    padding: 0 0.5em;
   }
   h1 {
     font-size: 2em;
   }
   h2 {
-    font-size: 1.5em;
+    font-size: 1.4em;
   }
 }
