@@ -27,18 +27,10 @@ For my contribution to Da Grindz, I focused on front-end development, where I cr
 In addition, I developed the vendors page, which interacts with the database to display live vendor information. This page shows the current status (open or closed) of each vendor in real time and allows users to search for specific vendors. It was crucial for me to ensure smooth data integration so users could easily access the most up to date information about on-campus food options.
 
 <div style="text-align: center;">
-  <img width="400px" class="rounded" style="margin-right: 15px; vertical-align: top;" src="../img/getstartedpage.png">
-  <img width="300px" class="rounded" style="margin-left: 15px; vertical-align: top;" src="../img/vendorspage.png">
+  <img width="500px" class="rounded" style="margin-right: 15px; vertical-align: top;" src="../img/getstartedpage.png">
+  <img width="500px" class="rounded" style="margin-left: 15px; vertical-align: top;" src="../img/vendorspage.png">
 </div>
 
-<style>
-  .same-size-image {
-    width: 100%; /* Makes the image fill the available space */
-    max-width: 400px; /* Ensures the image does not get bigger than 400px */
-    height: auto; /* Maintains aspect ratio */
-    margin-right: 15px; /* Adds space between the images */
-  }
-</style>
 
 Throughout this project, I learned how to manage data flow from the front-end to the database and how to implement real-time features like the vendor status. I also gained experience in creating user-friendly interactive elements and optimizing the UI to enhance user experience. One of the challenges I faced was ensuring that all front-end features worked seamlessly with the back-end database, especially with dynamic features like the vendor information updates.
 
