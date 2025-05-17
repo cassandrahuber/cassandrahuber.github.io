@@ -18,11 +18,15 @@ summary: "Da Grindz is a web app that helps UH Mānoa students plan meals and tr
 ## Da Grindz
 Da Grindz is a web application designed to assist the students and staff at the University of Hawai’i at Mānoa in managing their meal planning, tracking their nutritional intake, and making healthier food choices. The app provides personalized meal recommendations based on user-set dietary preferences, allergies, and specific nutritional goals like protein or calorie intake. Users can view real-time information about campus food vendors, including their operating hours and weekly menus, allowing them to plan their meals accordingly. 
 
-<img width="300px" class="rounded align-middle pe-4" src="../img/grindz-mood.png">
+<img width="300px" class="rounded align-middle" src="../img/grindz-mood.png">
 
 The standout feature of Da Grindz is the "Grindz Mood" system, where users select their mood (e.g., "Grindz for Gains," "Vegetarian Vibes," or "Quick Bento Run") to personalize meal suggestions, UI themes, and motivational quotes. This mood-based customization appears on the dashboard page. The app also includes a drag-and-drop planner tool for meal scheduling, a shopping list generator, and interactive features like a campus map showing vendor locations. 
 
+<img width="300px" class="rounded align-middle" src="../img/getstartedpage.png">
+
 For my contribution to Da Grindz, I focused on front-end development, where I created an interactive navbar with animated features, making it more engaging for users. I also designed the footer and built the landing page, which includes a step-by-step "Getting Started" guide. The guide has an additional features on buttons so when hovered over they move up slightly, their shadows grow larger, and start to glow; providing a more interactive experience for users.
+
+<img width="300px" class="rounded align-middle" src="../img/vendorspage.png">
 
 In addition, I developed the vendors page, which interacts with the database to display live vendor information. This page shows the current status (open or closed) of each vendor in real time and allows users to search for specific vendors. It was crucial for me to ensure smooth data integration so users could easily access the most up to date information about on-campus food options.
 
