@@ -28,7 +28,7 @@ In addition, I developed the vendors page, which interacts with the database to 
 
 <div class="text-center">
   <img width="400px" class="rounded d-inline-block mr-3" src="../img/getstartedpage.png">
-  <img width="300px" class="rounded d-inline-block ml-3" src="../img/vendorspage.png">
+  <img width="300px" class="rounded d-inline-block ml-2" src="../img/vendorspage.png">
 </div>
 
 Throughout this project, I learned how to manage data flow from the front-end to the database and how to implement real-time features like the vendor status. I also gained experience in creating user-friendly interactive elements and optimizing the UI to enhance user experience. One of the challenges I faced was ensuring that all front-end features worked seamlessly with the back-end database, especially with dynamic features like the vendor information updates.
