@@ -20,7 +20,7 @@ Da Grindz is a web application designed to assist the students and staff at the 
 
 The standout feature of Da Grindz is the "Grindz Mood" system, where users select their mood (e.g., "Grindz for Gains," "Vegetarian Vibes," or "Quick Bento Run") to personalize meal suggestions, UI themes, and motivational quotes. This mood-based customization appears on the dashboard page. The app also includes a drag-and-drop planner tool for meal scheduling, a shopping list generator, and interactive features like a campus map showing vendor locations. 
 
-<img width="300px" class="rounded d-block mx-auto" src="../img/grindz-mood.png">
+<img width="400px" class="rounded d-block mx-auto" src="../img/grindz-mood.png">
 
 For my contribution to Da Grindz, I focused on front-end development, where I created an interactive navbar with animated features, making it more engaging for users. I also designed the footer and built the landing page, which includes a step-by-step "Getting Started" guide. The guide has an additional features on buttons so when hovered over they move up slightly, their shadows grow larger, and start to glow; providing a more interactive experience for users.
 
