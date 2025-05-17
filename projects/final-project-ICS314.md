@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/books.jpg
+image: img/bone-apple-teeth.png
 title: "Da Grindz"
 date: 2025-5
 published: true
@@ -27,7 +27,8 @@ In addition, I developed the vendors page, which interacts with the database to 
 Throughout this project, I learned how to manage data flow from the front-end to the database and how to implement real-time features like the vendor status. I also gained experience in creating user-friendly interactive elements and optimizing the UI to enhance user experience. One of the challenges I faced was ensuring that all front-end features worked seamlessly with the back-end database, especially with dynamic features like the vendor information updates.
 
 Working on this project also helped me improve my collaboration skills. As part of a team, I had to communicate effectively and address issues quickly to ensure we met deadlines. I learned the importance of clear communication in a team setting and how to navigate challenges to deliver a well-rounded, functional product.
-https://da-grindz.vercel.app/
-https://github.com/da-grindz
+
 ## Links to the project: 
-<a href="https://da-grindz.github.io/"><i class="large github icon "></i>cassandrahuber/cassandrahuber-Book-Report-Processor</a>
+<a href="https://da-grindz.github.io/"><i class="large github icon "></i>Project Homepage</a>
+<a href="https://github.com/da-grindz"><i class="large github icon "></i>Da Grindz GitHub</a>
+<a href="https://da-grindz.vercel.app/"><i class="large github icon "></i>Vercel Deployment</a>
