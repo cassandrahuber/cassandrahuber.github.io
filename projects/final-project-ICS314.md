@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/bone-apple-teeth.png
 title: "Da Grindz"
-date: 2025
+date: 2025-05-12
 published: true
 labels:
   - Website
@@ -13,12 +13,12 @@ labels:
   - React
 summary: "Da Grindz is a web app that helps UH Mānoa students plan meals and track nutrition."
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/landingpage.png">
+<img width="900px" class="rounded align-middle pe-4" src="../img/landingpage.png">
 
 ## Da Grindz
-Da Grindz is a web app made for students and staff at the University of Hawai’i at Mānoa. The app helps users plan their meals and track their nutrition in a fun and easy way. It shows where food vendors are on campus, lists their menus, and gives personalized meal suggestions based on allergies and dietary needs. One cool feature is the “Mood-Based Meal Matching,” which suggests meals based on how you’re feeling that day and even changes the app’s look to match your mood.
-
 Da Grindz is a web application designed to assist the students and staff at the University of Hawai’i at Mānoa in managing their meal planning, tracking their nutritional intake, and making healthier food choices. The app provides personalized meal recommendations based on user-set dietary preferences, allergies, and specific nutritional goals like protein or calorie intake. Users can view real-time information about campus food vendors, including their operating hours and weekly menus, allowing them to plan their meals accordingly. 
+
+<img width="300px" class="rounded align-middle pe-4" src="../img/grindz-mood.png">
 
 The standout feature of Da Grindz is the "Grindz Mood" system, where users select their mood (e.g., "Grindz for Gains," "Vegetarian Vibes," or "Quick Bento Run") to personalize meal suggestions, UI themes, and motivational quotes. This mood-based customization appears on the dashboard page. The app also includes a drag-and-drop planner tool for meal scheduling, a shopping list generator, and interactive features like a campus map showing vendor locations. 
 
