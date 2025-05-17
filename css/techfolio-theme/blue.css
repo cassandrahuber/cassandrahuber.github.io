@@ -37,7 +37,7 @@ h1,h2,h3,h4,h5 {
 
 .tf-social:hover {
   /* fill: var(--tf-icon-hover); */
-  color: linear-gradient(45deg, #b4e7d9, #2b6555);
+  fill: #95acbe;
 }
 
 a {
