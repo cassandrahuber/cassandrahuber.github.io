@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/bone-apple-teeth.png
 title: "Da Grindz"
-date: 2025-5
+date: 2025
 published: true
 labels:
   - Website
@@ -28,7 +28,9 @@ Throughout this project, I learned how to manage data flow from the front-end to
 
 Working on this project also helped me improve my collaboration skills. As part of a team, I had to communicate effectively and address issues quickly to ensure we met deadlines. I learned the importance of clear communication in a team setting and how to navigate challenges to deliver a well-rounded, functional product.
 
-## Links to the project: 
-<a href="https://da-grindz.github.io/"><i class="large github icon "></i>Project Homepage</a>
-<a href="https://github.com/da-grindz"><i class="large github icon "></i>Da Grindz GitHub</a>
-<a href="https://da-grindz.vercel.app/"><i class="large github icon "></i>Vercel Deployment</a>
+## Links: 
+<ul>
+  <li><a href="https://da-grindz.github.io/"><i class="large github icon "></i>Project Homepage</a></li>
+  <li><a href="https://github.com/da-grindz"><i class="large github icon "></i>Da Grindz GitHub</a></li>
+  <li><a href="https://da-grindz.vercel.app/"><i class="large github icon "></i>Vercel Deployment</a></li>
+</ul>
