@@ -13,10 +13,10 @@
     ]
   },
   "interests": [
-    { "name": "Cyber Security" },
+    { "name": "Software Engineering" },
     { "name": "Data Science" },
     { "name": "Cyberinfastructure" },
-    { "name": "Software Development" }
+    { "name": "" }
   ],
   "skills": [
     {
