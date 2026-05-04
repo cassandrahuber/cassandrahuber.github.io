@@ -9,15 +9,8 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <img width="1000px" class="rounded d-block mx-auto" src="../img/ss_homepage.png">
-  <img width="1000px" class="rounded d-block mx-auto" src="../img/ss_homepage2.png">
+<img width="750px" class="rounded d-block mx-auto" src="../img/ss_homepage.png"><img width="750px" class="rounded d-block mx-auto" src="../img/ss_homepage2.png">
 </div>
-
-<div style="text-align: center;">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_homepage.png">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_homepage2.png">
-</div>
-
 
 ## Snack Stack
 
@@ -28,10 +21,8 @@ This semester in ICS 414, I worked on Snack Stack, a full-stack web application 
 My work on this project was mostly technical. I worked on validation, form behavior, database-related fixes, testing setup, continuous integration, search functionality, and making different parts of the site more consistent with each other. I also helped organize the project by creating the user stories, setting up most of the milestone project boards, and helping keep the group on track.
 
 <div style="text-align: center;">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_dashboard.png">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_pantry.png">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_shopping_list.png">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_recipes.png">
+  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_dashboard.png"> <img width="500px" class="rounded d-block mx-auto" src="../img/ss_pantry.png"> 
+  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_shopping_list.png"> <img width="500px" class="rounded d-block mx-auto" src="../img/ss_recipes.png">
 </div>
 
 
@@ -40,9 +31,9 @@ My work on this project was mostly technical. I worked on validation, form behav
 One of my biggest technical contributions was working on the quantity, category, and unit implementation across the site. Before this, different forms handled quantity, categories, and units in different ways. The add pantry item form, edit pantry item form, add shopping list item to pantry modal, and add to shopping list modal did not all follow the same structure, which made the site feel inconsistent. I came up with the idea that item categories should be connected to designated units, so the units shown to the user would usually match the selected category instead of relying on random manual unit typing. I also kept an “Other” option for cases where the available units did not fit the item. I worked on making quantity input follow one standard structure across the add and edit forms. Other group members helped with related parts, such as the database/category setup, while I focused on making the add and edit features uniform and consistent across the site. This was one of the contributions I was most proud of because it made the application feel more organized while still giving users flexibility when needed.
 
 <div style="text-align: center;">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_edit_pantry.png">
-  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_add_shopping.png">
+  <img width="500px" class="rounded d-block mx-auto" src="../img/ss_edit_pantry.png"> <img width="500px" class="rounded d-block mx-auto" src="../img/ss_add_shopping.png">
 </div>
+
 
 Another technical contribution I was proud of was fixing the negative value bugs for pantry items. Before this fix, users could enter negative numbers for restock thresholds and quantities when adding or editing pantry items. This was a problem because negative values do not make sense for pantry inventory and could create bad data in the database. I worked on preventing negative input in the UI and adding backend validation so invalid values would be rejected even if the frontend was bypassed. This made the application more reliable because validation was enforced on both the frontend and backend.
 
@@ -50,17 +41,20 @@ Another technical contribution I was proud of was fixing the negative value bugs
   <img width="500px" class="rounded d-block mx-auto" src="../img/ss_pantry_quantity.png">
 </div>
 
+
 I also worked on improving form behavior in the pantry modals. When adding produce to the pantry using the form, the reset button did not fully reset all of the fields, including the units. I fixed the reset behavior and added a confirmation popup so users would not accidentally clear the form without warning. I also worked on the Edit Produce modal by adding a cancel option that would undo changes and close the modal instead of saving unwanted edits. These changes improved the usability of the forms and made the add and edit process feel more complete.
 
 <div style="text-align: center;">
   <img width="500px" class="rounded d-block mx-auto" src="../img/ss_pantry_reset.png">
 </div>
 
+
 For the shopping list features, I fixed an issue where the category selection was not saving correctly when editing a shopping list item. The unit would save, but the category would not, so I worked on making sure the category was also saved properly in the database. I also added search functionality that allowed users to search shopping lists by ingredients inside the list, not just by the list name. For example, if a user searched for “chicken,” the app could filter lists that included chicken as an ingredient. I also updated the placeholder text and no-match text so the search feature matched what it actually did.
 
 <div style="text-align: center;">
   <img width="500px" class="rounded d-block mx-auto" src="../img/ss_shopping_search.png">
 </div>
+<
 
 ### Testing, Documentation, and Project Organization
 
