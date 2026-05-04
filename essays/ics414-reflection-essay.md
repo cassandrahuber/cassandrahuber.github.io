@@ -9,7 +9,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-<img width="750px" class="rounded d-block mx-auto" src="../img/ss_homepage.png"><img width="750px" class="rounded d-block mx-auto" src="../img/ss_homepage2.png">
+  <img width="750px" class="rounded d-block mx-auto" src="../img/ss_homepage.png"><img width="750px" class="rounded d-block mx-auto" src="../img/ss_homepage2.png">
 </div>
 
 ## Snack Stack
@@ -54,7 +54,7 @@ For the shopping list features, I fixed an issue where the category selection wa
 <div style="text-align: center;">
   <img width="500px" class="rounded d-block mx-auto" src="../img/ss_shopping_search.png">
 </div>
-<
+
 
 ### Testing, Documentation, and Project Organization
 
