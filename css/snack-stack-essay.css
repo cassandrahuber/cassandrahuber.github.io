@@ -1,0 +1,36 @@
+.screenshot-section {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.screenshot-card {
+  margin-bottom: 2rem;
+}
+
+.screenshot-card img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.screenshot-caption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+.crop-width {
+  width: 500px;
+  max-width: 100%;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+
+.crop-width img {
+  width: 575px;
+  max-width: none;
+  display: block;
+  transform: translateX(-37px);
+}
